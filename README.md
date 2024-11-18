@@ -1,0 +1,2 @@
+# Chelleh
+Django base project.
